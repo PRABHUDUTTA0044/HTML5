@@ -1,0 +1,43 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/Practiceform.html
+Subject: Practice form></form>
+Date: Tue, 26 Jul 2022 06:52:59 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--d2DAa5jFbBfVXCW5m7VLMCgmIS5W3jrgmN5ilYn9t4----"
+
+
+------MultipartBoundary--d2DAa5jFbBfVXCW5m7VLMCgmIS5W3jrgmN5ilYn9t4----
+Content-Type: text/html
+Content-ID: <frame-9E3BD8DD63B0D165BA535208097FB6DB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/Practiceform.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Practice form&gt;&lt;/form&gt;</title>
+</head>
+<body>
+    <h1>PERSONAL DETAILS</h1>
+    <form>
+        <label for=3D"Fname">FIRST NAME</label><br>
+        <input type=3D"text" id=3D"Fname" name=3D"Fname" value=3D"Prabhudut=
+ta"><br>
+        <label for=3D"Lname">LAST NAME</label><br>
+        <input type=3D"text" id=3D"Lname" name=3D"Lname" value=3D"Barik"><b=
+r>
+        <label for=3D"pname">FATHER'S NAME</label><br>
+        <input type=3D"text" id=3D"pname" name=3D"pname" value=3D"JYOTI BHU=
+SAN"><br>
+        <input type=3D"submit" value=3D"SUBMIT">
+
+    </form>
+<!-- Code injected by live-server -->
+
+</body></html>
+------MultipartBoundary--d2DAa5jFbBfVXCW5m7VLMCgmIS5W3jrgmN5ilYn9t4------
